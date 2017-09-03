@@ -206,9 +206,10 @@ All source code is licensed under the [MIT License](https://raw.github.com/rs/SD
 ## Architecture
 
 <p align="center" >
-    <img src="/screenshot_circular_img.png" title="Circular image">
+    <img src="Docs/SDWebImageClassDiagram.png" title="SDWebImage class diagram">
 </p>
 
 <p align="center" >
-    <img src="/screenshot_rounded_btn.png" title="Rounded Corner image">
+    <img src="Docs/SDWebImageSequenceDiagram.png" title="SDWebImage sequence diagram">
 </p>
+
